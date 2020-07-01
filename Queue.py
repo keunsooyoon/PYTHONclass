@@ -10,4 +10,4 @@ def Queue() :
 
     while queue :
         print("Get Value : ", queue.pop(0))
-Stack()
+Queue()
